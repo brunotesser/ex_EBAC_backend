@@ -9,8 +9,8 @@ public class PrimeiraClasse {
         cliente.setCodigo(1);
         System.out.println(cliente.getCodigo());
         //cliente.imprimirEndereco();
-        String end = cliente.retornarNomeCliente();
-        System.out.println(end);
+        System.out.println(cliente.retornarNomeCliente());
+        System.out.println(cliente.getValorTotal());
 
     }
 }

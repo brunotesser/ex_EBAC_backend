@@ -43,5 +43,9 @@ public class Cliente {
     public String retornarNomeCliente(){
         return "Endereço do Bruno";
     }
+
+    public int getValorTotal() {
+        return 20;
+    }
 }
 
