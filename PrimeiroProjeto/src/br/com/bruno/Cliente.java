@@ -35,5 +35,13 @@ public class Cliente {
        setEndereco(endereco);
 
     }
+
+    public void imprimirEndereco(){
+        System.out.println(this.endereco);
+    }
+
+    public String retornarNomeCliente(){
+        return "Endereço do Bruno";
+    }
 }
 

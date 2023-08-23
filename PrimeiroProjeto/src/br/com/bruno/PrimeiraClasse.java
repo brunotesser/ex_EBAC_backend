@@ -8,7 +8,9 @@ public class PrimeiraClasse {
         cliente.cadastrarEndereco("Rua 1");
         cliente.setCodigo(1);
         System.out.println(cliente.getCodigo());
-        System.out.println(cliente.getEndereco());
+        //cliente.imprimirEndereco();
+        String end = cliente.retornarNomeCliente();
+        System.out.println(end);
 
     }
 }
