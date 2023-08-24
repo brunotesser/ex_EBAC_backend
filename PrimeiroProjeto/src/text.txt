@@ -8,3 +8,9 @@ Tipos de váriaveis
 - short (armazena números inteiros de 16bits)
 - long (numerios inteiros de 64bit) = cpf, cep, etc
 - double (numeros em notação de ponto flutuante)
+
+TAREFA:
+- Fazer classe dentro do projeto
+- Fazer leitura de 4 notas e dividir por 4
+- Pegar o resultado e imprimir no console
+- Pasta tarefa_calculo_media
