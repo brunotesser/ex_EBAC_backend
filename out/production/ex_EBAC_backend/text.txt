@@ -1,0 +1,10 @@
+Tipos de váriaveis
+
+- int (números inteiros de 32bits)
+- float (numeros em notação de ponto flutuante)
+- boolean (true or false)
+- String (caracter em notação 16bits, aceita dados alfanumericos) = numero e texto mas nao da para calcular
+- byte (Numero inteiro de 8bits)
+- short (armazena números inteiros de 16bits)
+- long (numerios inteiros de 64bit) = cpf, cep, etc
+- double (numeros em notação de ponto flutuante)
