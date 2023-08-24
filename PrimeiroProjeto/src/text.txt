@@ -9,8 +9,16 @@ Tipos de váriaveis
 - long (numerios inteiros de 64bit) = cpf, cep, etc
 - double (numeros em notação de ponto flutuante)
 
-TAREFA:
+TAREFA8:
 - Fazer classe dentro do projeto
 - Fazer leitura de 4 notas e dividir por 4
 - Pegar o resultado e imprimir no console
 - Pasta tarefa_calculo_media
+
+TAREFA9:
+- Criar projeto e classe
+- Dentro da classe ler do console um valor, um valor numérico coloque em uma variavel tipo primitiva e faça conversão
+para o Wrapper dessa variavel e imprimir novamente;
+- Colocar no github na pasta tarefa_wrapper
+
+TAREFA10:
