@@ -22,3 +22,9 @@ para o Wrapper dessa variavel e imprimir novamente;
 - Colocar no github na pasta tarefa_wrapper
 
 TAREFA10:
+-Fazer leituras da nota do aluno e dar resultado, porém agora colocar lógica
+- Ler do console 4 notas e dividir por 4
+- Fazer uma condição e ver se a nota é maior ou igual a 7
+- Se ela for maior ou igual a 7 o aluno está aprovado
+- Se ela for maior ou igual a 5 o aluno está de recuperação
+- Se ela for menos que 5 o aluno está reprovado
