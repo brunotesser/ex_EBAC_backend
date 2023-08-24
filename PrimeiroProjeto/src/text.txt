@@ -28,3 +28,6 @@ TAREFA10:
 - Se ela for maior ou igual a 7 o aluno está aprovado
 - Se ela for maior ou igual a 5 o aluno está de recuperação
 - Se ela for menos que 5 o aluno está reprovado
+
+TAREFA11:
+-
