@@ -1,6 +1,6 @@
 package br.com.bruno3;
 
-public class Exemplo1 {
+public class exemplo1 {
 
     public static void main (String args[]){
 
